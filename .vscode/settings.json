@@ -28,5 +28,8 @@
     "terminal.integrated.defaultProfile.windows": "Msys2_64",
 
     "git.enabled": true,
-    "git.path": "C:\\msys64\\mingw64\\bin\\git.exe"
+    "git.path": "C:\\msys64\\mingw64\\bin\\git.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

@@ -14,7 +14,7 @@ SRC_DIR		:= ./src
 
 TARGET		:= ${BUILD_DIR}/sampleapp.bin
 
-SRC			:= ${SRC_DIR}/main.cpp ${SRC_DIR}/sample_function.cpp
+SRC			:= ${SRC_DIR}/main.cpp
 
 all			:= build
 
