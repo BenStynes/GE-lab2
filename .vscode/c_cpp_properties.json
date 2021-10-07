@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "MSYS64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include"
+            ],
+            "defines": [],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
